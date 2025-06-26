@@ -34,13 +34,52 @@ Show GitHub Activities
 
 <!---
 Show spotify stats
--->
 <div align="center">
   <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=x66jcxe031a67t6po1av5fi9x">
   <img 
     src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=x66jcxe031a67t6po1av5fi9x&hide_title=1&hide_recents=1" 
     alt="Data Card for Spotify"
     width="350"
+    >
+  </a>
+</div>
+-->
+
+<h2 align="center">            🇨‌🇴‌🇳‌🇹‌🇦‌🇨‌🇹‌ 🇲‌🇪‌ </h2>
+  <div align="center">
+<img src="assets/contact_pic.jpg" align="left" width = 300px height = auto>
+  </div>
+<br>
+<p align="center">
+𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚘𝚞𝚝 ૮๑•̀ㅁ•́ฅა<br>
+𝙹𝚞𝚜𝚝 𝚙𝚘𝚔𝚎 𝚖𝚎 𝚊𝚐𝚊𝚒𝚗 𝚒𝚏 𝙸 𝚏𝚘𝚛𝚐𝚎𝚝 𝚝𝚘 𝚛𝚎𝚙𝚕𝚢 ( ´ㅁ` ; )<br>
+<br>
+❀˚✿˖°❀˖°✿˖❀˖°
+<br>
+</p>
+<p align="center">
+<a href="mailto:asymptote069@gmail.com">
+  <img src="https://img.shields.io/badge/asymptote069-white?style=for-the-badge&logo=gmail&logoColor=%23EA4335&logoSize=auto&labelColor=f9e0ea" alt="Email Badge"/>
+</a>
+<a href="https://instagram.com/pipi._.bear" target="_blank">
+  <img src="https://img.shields.io/badge/%20pipi.__.bear-white?style=for-the-badge&logo=instagram&logoColor=%23FF0069&logoSize=auto&labelColor=f9e0ea" alt="Instagram Badge"/>
+</a>
+<a href="https://discord.com/users/488404373903245313" target="_blank">
+  <img src="https://img.shields.io/badge/pipibear-white?style=for-the-badge&logo=discord&logoColor=5865F2&logoSize=auto&labelColor=f9e0ea" alt="Discord Badge"/>
+</a>
+</p>
+</div>
+<br>
+
+<!---
+Show spotify stats
+-->
+<div align="center">
+  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=x66jcxe031a67t6po1av5fi9x">
+  <img 
+    src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=x66jcxe031a67t6po1av5fi9x&hide_title=1&hide_recents=1" 
+    alt="Data Card for Spotify"
+    width="320"
     >
   </a>
 </div>
