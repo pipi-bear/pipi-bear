@@ -8,7 +8,7 @@ Show profile views
 </p> <br>
 
 <p>
-<img align="left" src="assets/prof_pic.jpg" width="300" /> 
+<img align="left" src="assets/profile_pic.jpg" width="300" /> 
 
 ```
 pipi-bear@github
