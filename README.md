@@ -45,18 +45,51 @@ Show spotify stats
 </div>
 -->
 
-<h2 align="center">            🇨‌🇴‌🇳‌🇹‌🇦‌🇨‌🇹‌ 🇲‌🇪‌ </h2>
-  <div align="center">
-<img src="assets/contact_pic.jpg" align="left" width = 300px height = auto>
-  </div>
+<h2 align="center"> 🇭‌🇼‌ 🇷‌🇪‌🇵‌🇴‌🇸‌ 🇦‌🇹‌ 🇳‌🇹‌🇺‌ </h2>
+<table>
+  <tr>
+    <!-- CSIE -->
+    <td valign="top">
+      <h3>📘 𝗖𝗦𝗜𝗘</h3>
+      <ul>
+        <!-- Using bold-2 font on instafonts-->
+        <li>𝐂𝐒𝐈𝐄 𝟓𝟎𝟒𝟑: <a href="https://github.com/pipi-bear/NTU-ML-2024">𝐌𝐋 (𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠)</a></li>
+        <li>𝐂𝐒𝐈𝐄 𝟓𝟕𝟑𝟐: <a href="https://github.com/pipi-bear/NTU-CV-2024">𝐂𝐕 (𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧)</a></li>
+        <li>𝐂𝐒𝐈𝐄 𝟐𝟑𝟒𝟒: <a href="https://github.com/pipi-bear/NTU-DSDL-2025">𝐃𝐒𝐃𝐋 (𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐃𝐞𝐬𝐢𝐠𝐧 𝐚𝐧𝐝 𝐋𝐚𝐛𝐨𝐫𝐚𝐭𝐨𝐫𝐲)</a></li>
+        <li>𝑪𝑺𝑰𝑬 𝟑𝟑𝟏𝟎: <a href="https://github.com/pipi-bear/NTU-OS-2025">𝑶𝑺 (𝑶𝒑𝒆𝒓𝒂𝒕𝒊𝒏𝒈 𝑺𝒚𝒔𝒕𝒆𝒎𝒔)</a></li>
+        <li>𝑪𝑺𝑰𝑬 𝟓𝟒𝟏𝟎: <a href="https://github.com/pipi-bear/NTU-OA-2025">𝑶𝑨 (𝑶𝒑𝒕𝒊𝒎𝒊𝒛𝒂𝒕𝒊𝒐𝒏 𝑨𝒍𝒈𝒐𝒓𝒊𝒕𝒉𝒎𝒔)</a></li> </ul>
+    </td>
+    <!-- EE -->
+    <td valign="top">
+      <h3>📗 𝗘𝗘</h3>
+      <ul>
+        <li>𝑬𝑬 𝟓𝟏𝟔𝟑: <a href="https://github.com/pipi-bear/NTU-ADSP-2025"> 𝑨𝑫𝑺𝑷 (𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅 𝑫𝒊𝒈𝒊𝒕𝒂𝒍 𝑺𝒊𝒈𝒏𝒂𝒍 𝑷𝒓𝒐𝒄𝒆𝒔𝒔𝒊𝒏𝒈)</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
+
+<h2 align="center"> 🇨‌🇴‌🇳‌🇹‌🇦‌🇨‌🇹‌ 🇲‌🇪‌ </h2>
+<div align="center">
+  <img src="assets/contact_pic.jpg" 
+    align="left" 
+    width = 300px 
+    height = auto>
+</div>
 <br>
+
 <p align="center">
-𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚘𝚞𝚝 ૮๑•̀ㅁ•́ฅა<br>
-𝙹𝚞𝚜𝚝 𝚙𝚘𝚔𝚎 𝚖𝚎 𝚊𝚐𝚊𝚒𝚗 𝚒𝚏 𝙸 𝚏𝚘𝚛𝚐𝚎𝚝 𝚝𝚘 𝚛𝚎𝚙𝚕𝚢 ( ´ㅁ` ; )<br>
-<br>
-❀˚✿˖°❀˖°✿˖❀˖°
-<br>
+  𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚘𝚞𝚝 ૮๑•̀ㅁ•́ฅა
+  <br>
+  𝙹𝚞𝚜𝚝 𝚙𝚘𝚔𝚎 𝚖𝚎 𝚊𝚐𝚊𝚒𝚗 𝚒𝚏 𝙸 𝚏𝚘𝚛𝚐𝚎𝚝 𝚝𝚘 𝚛𝚎𝚙𝚕𝚢 ( ´ㅁ` ; )
+  <br>
+  <br>
+  ❀˚✿˖°❀˖°✿˖❀˖°
+  <br>
 </p>
+
 <p align="center">
 <a href="mailto:asymptote069@gmail.com">
   <img src="https://img.shields.io/badge/asymptote069-white?style=for-the-badge&logo=gmail&logoColor=%23EA4335&logoSize=auto&labelColor=f9e0ea" alt="Email Badge"/>
