@@ -56,14 +56,14 @@ Show spotify stats
         <li>𝐂𝐒𝐈𝐄 𝟓𝟎𝟒𝟑: <a href="https://github.com/pipi-bear/NTU-ML-2024">𝐌𝐋 (𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠)</a></li>
         <li>𝐂𝐒𝐈𝐄 𝟓𝟕𝟑𝟐: <a href="https://github.com/pipi-bear/NTU-CV-2024">𝐂𝐕 (𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧)</a></li>
         <li>𝐂𝐒𝐈𝐄 𝟐𝟑𝟒𝟒: <a href="https://github.com/pipi-bear/NTU-DSDL-2025">𝐃𝐒𝐃𝐋 (𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐃𝐞𝐬𝐢𝐠𝐧 𝐚𝐧𝐝 𝐋𝐚𝐛𝐨𝐫𝐚𝐭𝐨𝐫𝐲)</a></li>
-        <li>𝑪𝑺𝑰𝑬 𝟑𝟑𝟏𝟎: <a href="https://github.com/pipi-bear/NTU-OS-2025">𝑶𝑺 (𝑶𝒑𝒆𝒓𝒂𝒕𝒊𝒏𝒈 𝑺𝒚𝒔𝒕𝒆𝒎𝒔)</a></li>
-        <li>𝑪𝑺𝑰𝑬 𝟓𝟒𝟏𝟎: <a href="https://github.com/pipi-bear/NTU-OA-2025">𝑶𝑨 (𝑶𝒑𝒕𝒊𝒎𝒊𝒛𝒂𝒕𝒊𝒐𝒏 𝑨𝒍𝒈𝒐𝒓𝒊𝒕𝒉𝒎𝒔)</a></li> </ul>
+        <li>𝐂𝐒𝐈𝐄 𝟑𝟑𝟏𝟎: <a href="https://github.com/pipi-bear/NTU-OS-2025">𝐎𝐒 (𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐧𝐠 𝐒𝐲𝐬𝐭𝐞𝐦𝐬)</a></li>
+        <li>𝐂𝐒𝐈𝐄 𝟓𝟒𝟏𝟎: <a href="https://github.com/pipi-bear/NTU-OA-2025">𝐎𝐀 (𝐎𝐩𝐭𝐢𝐦𝐢𝐳𝐚𝐭𝐢𝐨𝐧 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬)</a></li> </ul>
     </td>
     <!-- EE -->
     <td valign="top">
       <h3>📗 𝗘𝗘</h3>
       <ul>
-        <li>𝑬𝑬 𝟓𝟏𝟔𝟑: <a href="https://github.com/pipi-bear/NTU-ADSP-2025"> 𝑨𝑫𝑺𝑷 (𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅 𝑫𝒊𝒈𝒊𝒕𝒂𝒍 𝑺𝒊𝒈𝒏𝒂𝒍 𝑷𝒓𝒐𝒄𝒆𝒔𝒔𝒊𝒏𝒈)</a></li>
+        <li>𝐄𝐄 𝟓𝟏𝟔𝟑: <a href="https://github.com/pipi-bear/NTU-ADSP-2025">𝐀𝐃𝐒𝐏 (𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐒𝐢𝐠𝐧𝐚𝐥 𝐏𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠)</a></li>
       </ul>
     </td>
   </tr>
