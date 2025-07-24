@@ -120,3 +120,18 @@ Show spotify stats
   </a>
 </div>
 
+<!---
+Generate top languages, for more info, see:
+https://github.com/anuraghazra/github-readme-stats
+-->
+<!-- <p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pipi-bear&layout=compact" alt="Top Langs" />
+  </a>
+</p> -->
+
+<!---
+Generate waka stats
+-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
