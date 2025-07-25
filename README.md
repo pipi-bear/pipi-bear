@@ -131,6 +131,13 @@ https://github.com/anuraghazra/github-readme-stats
 </p> -->
 
 <!---
+waka-readme-stats
+https://github.com/anmol098/waka-readme-stats
+
+for configuration, set .github/workflows/waka-readme.yml
+-->
+
+<!---
 Generate waka stats
 -->
 <!--START_SECTION:waka-->
