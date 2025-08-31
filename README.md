@@ -141,6 +141,8 @@ for configuration, set .github/workflows/waka-readme.yml
 Generate waka stats
 -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2045%20mins-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -166,13 +168,12 @@ Sunday                   13 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TeX                      7 mins              ██████████████░░░░░░░░░░░   55.97 % 
-Other                    5 mins              ███████████░░░░░░░░░░░░░░   44.03 % 
+Other                    6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-NSTC_poster              13 mins             █████████████████████████   100.00 % 
+NSTC_poster              6 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/08/2025 01:06:31 UTC
+ Last Updated on 31/08/2025 01:14:26 UTC
 <!--END_SECTION:waka-->
