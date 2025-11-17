@@ -141,6 +141,8 @@ for configuration, set .github/workflows/waka-readme.yml
 Generate waka stats
 -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-175%20hrs%2057%20mins-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -181,5 +183,5 @@ ntu-2025fall-advanced-com2 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 16/11/2025 01:18:38 UTC
+ Last Updated on 17/11/2025 01:15:01 UTC
 <!--END_SECTION:waka-->
