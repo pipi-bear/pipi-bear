@@ -61,12 +61,15 @@ Show spotify stats
         <li>𝐂𝐒𝐈𝐄 𝟐𝟑𝟒𝟒: <a href="https://github.com/pipi-bear/NTU-DSDL-2025">𝐃𝐒𝐃𝐋 (𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐃𝐞𝐬𝐢𝐠𝐧 𝐚𝐧𝐝 𝐋𝐚𝐛𝐨𝐫𝐚𝐭𝐨𝐫𝐲)</a></li>
         <li>𝐂𝐒𝐈𝐄 𝟑𝟑𝟏𝟎: <a href="https://github.com/pipi-bear/NTU-OS-2025">𝐎𝐒 (𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐧𝐠 𝐒𝐲𝐬𝐭𝐞𝐦𝐬)</a></li>
         <li>𝐂𝐒𝐈𝐄 𝟓𝟒𝟏𝟎: <a href="https://github.com/pipi-bear/NTU-OA-2025">𝐎𝐀 (𝐎𝐩𝐭𝐢𝐦𝐢𝐳𝐚𝐭𝐢𝐨𝐧 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬)</a></li> </ul>
+        <li>𝐂𝐒𝐈𝐄 𝟓𝟎𝟓𝟒: <a href="https://github.com/pipi-bear/NTU-ACD-2025">𝐀𝐂𝐃 (𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐂𝐨𝐦𝐩𝐢𝐥𝐞𝐫 𝐃𝐞𝐬𝐢𝐠𝐧)</a></li> </ul>
+        <li>𝐂𝐒𝐈𝐄 𝟓𝟒𝟑𝟒: <a href="https://github.com/pipi-bear/NTU-Fintech-2025">𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐅𝐢𝐧𝐓𝐞𝐜𝐡</a></li> </ul>
     </td>
     <!-- EE -->
     <td valign="top">
       <h3>📗 𝗘𝗘</h3>
       <ul>
         <li>𝐄𝐄 𝟓𝟏𝟔𝟑: <a href="https://github.com/pipi-bear/NTU-ADSP-2025">𝐀𝐃𝐒𝐏 (𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐒𝐢𝐠𝐧𝐚𝐥 𝐏𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠)</a></li>
+        <li>𝐂𝐨𝐦𝐦𝐄 𝟓𝟎𝟑𝟎: <a href="https://github.com/pipi-bear/NTU-TFW-2025">𝐓𝐅𝐖 (𝐓𝐢𝐦𝐞-𝐅𝐫𝐞𝐪𝐮𝐞𝐧𝐜𝐲 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐚𝐧𝐝 𝐖𝐚𝐯𝐞𝐥𝐞𝐭 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦)</a></li>
       </ul>
     </td>
   </tr>
