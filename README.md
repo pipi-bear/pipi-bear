@@ -98,7 +98,7 @@ Show spotify stats
 </p>
 
 <p align="center">
-<a href="mailto:asymptote069@gmail.com">
+<a href="mailto:asymptote069@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/asymptote069-white?style=for-the-badge&logo=gmail&logoColor=%23EA4335&logoSize=auto&labelColor=f9e0ea" alt="Email Badge"/>
 </a>
 <a href="https://instagram.com/pipi._.bear" target="_blank">
@@ -106,6 +106,9 @@ Show spotify stats
 </a>
 <a href="https://discord.com/users/488404373903245313" target="_blank">
   <img src="https://img.shields.io/badge/pipibear-white?style=for-the-badge&logo=discord&logoColor=5865F2&logoSize=auto&labelColor=f9e0ea" alt="Discord Badge"/>
+</a>
+<a href="https://mastodon.social/@pipibear" target="_blank">
+  <img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
 </a>
 </p>
 </div>
@@ -184,3 +187,6 @@ st                       44 mins             ███████████�
 
  Last Updated on 06/01/2026 01:20:15 UTC
 <!--END_SECTION:waka-->
+
+<!--START_SECTION:hackmd-->
+<!--END_SECTION:hackmd-->
