@@ -108,7 +108,7 @@ Show spotify stats
   <img src="https://img.shields.io/badge/pipibear-white?style=for-the-badge&logo=discord&logoColor=5865F2&logoSize=auto&labelColor=f9e0ea" alt="Discord Badge"/>
 </a>
 <a href="https://mastodon.social/@pipibear" target="_blank">
-  <img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
+  <img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white&logoSize=auto&labelColor=f9e0ea" alt="Mastodon Badge"/>
 </a>
 </p>
 </div>
