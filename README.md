@@ -148,47 +148,6 @@ for configuration, set .github/workflows/waka-readme.yml
 Generate waka stats
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-357%20hrs%2043%20mins-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                86 commits          ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
-🌆 Daytime                193 commits         █████████████░░░░░░░░░░░░   50.66 % 
-🌃 Evening                73 commits          █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-🌙 Night                  29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-Tuesday                  94 commits          ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
-Wednesday                54 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Thursday                 112 commits         ███████░░░░░░░░░░░░░░░░░░   29.40 % 
-Friday                   52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Saturday                 6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-Sunday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-C                        8 hrs 57 mins       ██████████████████░░░░░░░   71.65 % 
-C++                      1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-Markdown                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-Python                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-GDB                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-
-🐱‍💻 Projects: 
-Unknown Project          3 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   30.80 % 
-leetcode                 3 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   27.95 % 
-C                        2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-mlir-sparseMatrixKernels 1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-llvm-project             1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-```
-
-
- Last Updated on 14/05/2026 02:43:35 UTC
+ Last Updated on 15/05/2026 02:44:07 UTC
 <!--END_SECTION:waka-->
