@@ -148,45 +148,6 @@ for configuration, set .github/workflows/waka-readme.yml
 Generate waka stats
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-379%20hrs%2030%20mins-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                87 commits          ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
-🌆 Daytime                194 commits         █████████████░░░░░░░░░░░░   50.65 % 
-🌃 Evening                73 commits          █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-🌙 Night                  29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Tuesday                  94 commits          ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
-Wednesday                55 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Thursday                 113 commits         ███████░░░░░░░░░░░░░░░░░░   29.50 % 
-Friday                   52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Saturday                 6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-Sunday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   1 hr 40 mins        ████████░░░░░░░░░░░░░░░░░   32.38 % 
-MLIR                     1 hr 29 mins        ███████░░░░░░░░░░░░░░░░░░   28.82 % 
-tmux                     1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
-Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-Assembly                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-
-🐱‍💻 Projects: 
-mlir-sparseMatrixKernels 3 hrs 39 mins       ██████████████████░░░░░░░   71.05 % 
-Unknown Project          1 hr 17 mins        ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
-leetcode                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-```
-
-
- Last Updated on 28/05/2026 02:43:45 UTC
+ Last Updated on 29/05/2026 02:47:10 UTC
 <!--END_SECTION:waka-->
