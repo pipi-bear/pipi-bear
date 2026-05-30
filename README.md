@@ -148,6 +148,46 @@ for configuration, set .github/workflows/waka-readme.yml
 Generate waka stats
 -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-383%20hrs%2033%20mins-blue?style=flat)
 
- Last Updated on 29/05/2026 02:47:10 UTC
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                88 commits          ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+🌆 Daytime                194 commits         █████████████░░░░░░░░░░░░   50.52 % 
+🌃 Evening                73 commits          █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+🌙 Night                  29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Tuesday                  94 commits          ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+Wednesday                55 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Thursday                 113 commits         ███████░░░░░░░░░░░░░░░░░░   29.43 % 
+Friday                   53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Saturday                 6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Sunday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 2 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   40.45 % 
+MLIR                     1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+Python                   1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
+tmux                     1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+C                        12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+
+🐱‍💻 Projects: 
+mlir-sparseMatrixKernels 3 hrs 7 mins        ███████████░░░░░░░░░░░░░░   43.74 % 
+CTHPC_2026               2 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   38.42 % 
+Unknown Project          1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+leetcode                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+```
+
+
+ Last Updated on 30/05/2026 02:40:50 UTC
 <!--END_SECTION:waka-->
