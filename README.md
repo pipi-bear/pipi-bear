@@ -148,47 +148,8 @@ for configuration, set .github/workflows/waka-readme.yml
 Generate waka stats
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-386%20hrs%2047%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                88 commits          ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
-🌆 Daytime                194 commits         █████████████░░░░░░░░░░░░   50.52 % 
-🌃 Evening                73 commits          █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-🌙 Night                  29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Tuesday                  94 commits          ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
-Wednesday                55 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Thursday                 113 commits         ███████░░░░░░░░░░░░░░░░░░   29.43 % 
-Friday                   53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-Saturday                 6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-Sunday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-386%20hrs%2054%20mins-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 3 hrs 2 mins        ███████████░░░░░░░░░░░░░░   42.12 % 
-tmux                     1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-Python                   1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-C++                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-MLIR                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-
-🐱‍💻 Projects: 
-CTHPC_2026               2 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   37.81 % 
-mlir-sparseMatrixKernels 2 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   28.18 % 
-Unknown Project          1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
-llvm-project             37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-leetcode                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-```
-
-
- Last Updated on 04/06/2026 03:34:21 UTC
+ Last Updated on 05/06/2026 02:56:27 UTC
 <!--END_SECTION:waka-->
