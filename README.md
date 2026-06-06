@@ -148,8 +148,46 @@ for configuration, set .github/workflows/waka-readme.yml
 Generate waka stats
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-386%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-388%20hrs-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                88 commits          ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+🌆 Daytime                195 commits         █████████████░░░░░░░░░░░░   50.39 % 
+🌃 Evening                75 commits          █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+🌙 Night                  29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Tuesday                  94 commits          ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
+Wednesday                55 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Thursday                 116 commits         ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+Friday                   53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Saturday                 6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Sunday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+```
 
 
- Last Updated on 05/06/2026 02:56:27 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   1 hr 35 mins        █████████░░░░░░░░░░░░░░░░   35.07 % 
+Markdown                 52 mins             █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
+C++                      31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+MLIR                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Other                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+
+🐱‍💻 Projects: 
+mlir-sparseMatrixKernels 3 hrs 11 mins       ██████████████████░░░░░░░   70.32 % 
+llvm-project             38 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Unknown Project          28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+CV                       13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+```
+
+
+ Last Updated on 06/06/2026 02:43:34 UTC
 <!--END_SECTION:waka-->
