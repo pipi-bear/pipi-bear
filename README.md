@@ -148,26 +148,28 @@ for configuration, set .github/workflows/waka-readme.yml
 Generate waka stats
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-420%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-401%20hrs%2035%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-45%20hrs%2030%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                111 commits         ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
-🌆 Daytime                227 commits         ████████████░░░░░░░░░░░░░   48.92 % 
-🌃 Evening                97 commits          █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
-🌙 Night                  29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+🌞 Morning                114 commits         ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
+🌆 Daytime                231 commits         ████████████░░░░░░░░░░░░░   49.04 % 
+🌃 Evening                97 commits          █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+🌙 Night                  29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Tuesday                  111 commits         ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
-Wednesday                55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-Thursday                 153 commits         ████████░░░░░░░░░░░░░░░░░   32.97 % 
-Friday                   59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Saturday                 9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-Sunday                   21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+Monday                   63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Tuesday                  111 commits         ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
+Wednesday                55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Thursday                 153 commits         ████████░░░░░░░░░░░░░░░░░   32.48 % 
+Friday                   59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+Saturday                 9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Sunday                   21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 ```
 
 
@@ -175,20 +177,46 @@ Sunday                   21 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   37.09 % 
-Python                   2 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   27.30 % 
-Other                    32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-Text                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-TeX                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Markdown                 4 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   36.59 % 
+Python                   3 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   27.16 % 
+JSON                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+TeX                      51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 
 🐱‍💻 Projects: 
-mlir-sparseMatrixKernels 5 hrs 41 mins       █████████████████░░░░░░░░   69.02 % 
-thesis                   42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-claude                   37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-dotfiles                 37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-Unknown Project          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+mlir-sparseMatrixKernels 7 hrs 23 mins       ████████████████░░░░░░░░░   62.05 % 
+dotfiles                 2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+thesis                   1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+claude                   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Unknown Project          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 9 hrs 12 mins (77.33%)
+
+✍️ 4,195 lines written by AI, 45 lines written by hand (98.94% AI-written)
+
+🔤 59,219,975 Input Tokens, 616,566 Output Tokens
+
+💵 $212.92 Estimated AI Cost This Week
+
+🧠 42 AI Sessions, 177 AI Prompts
+
+Fable                    4,335 lines         ████████████████████████░   95.30 % 
+Opus                     214 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.94% of written lines came from AI
+📚 Verbose Prompter — average 5,262 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 2.61% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/07/2026 02:29:17 UTC
+ Last Updated on 28/07/2026 02:04:59 UTC
 <!--END_SECTION:waka-->
