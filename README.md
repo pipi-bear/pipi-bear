@@ -120,7 +120,7 @@ Show spotify stats
 <div align="center">
   <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=x66jcxe031a67t6po1av5fi9x">
   <img 
-    src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=x66jcxe031a67t6po1av5fi9x&hide_title=1&hide_recents=1" 
+    src="https://data-card-for-spotify.herokuapp.com/card?user_id=x66jcxe031a67t6po1av5fi9x&hide_title=1&hide_recents=1" 
     alt="Data Card for Spotify"
     width="320"
     >
