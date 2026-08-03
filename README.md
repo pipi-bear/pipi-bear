@@ -86,17 +86,11 @@ HackMD stats, auto-updated by .github/workflows/update-hackmd.yml
 edit the section between the markers by hand.
 -->
 <!--START_SECTION:hackmd-->
-**171,966** views across **130** published notes
+────୨ৎ──── **173,274** views across **131** published notes ────୨ৎ────
 
-**Popular notes**
-- [ML 筆記](https://hackmd.io/@pipibear/rJpuFUMxC) — 74,171 views
-- [特徵方程式](https://hackmd.io/@pipibear/SyR4AjQKp) — 7,450 views
-- [hard link / soft (symbolic) link](https://hackmd.io/@pipibear/r12FFpPO6) — 5,168 views
-
-**Recently updated**
-- [tmux](https://hackmd.io/@pipibear/B1PX8opIWl) — 2026-07-16
-- [libheif︰在 (arch) linux 上將 heic 檔轉為 jpg / png](https://hackmd.io/@pipibear/ByNru4ZgMg) — 2026-05-25
-- [gdb](https://hackmd.io/@pipibear/ByQVDqd6bx) — 2026-05-18
+|˚.🎀༘⋆ Popular notes .𖥔 ݁ ˖ | ✚ Recently updated ♬⋆.˚ |
+| --- | --- |
+| 🍀୭ [ML 筆記](https://hackmd.io/@pipibear/rJpuFUMxC) — 74,266 views<br>🍀୭ [特徵方程式](https://hackmd.io/@pipibear/SyR4AjQKp) — 7,471 views<br>🍀୭ [hard link / soft (symbolic) link](https://hackmd.io/@pipibear/r12FFpPO6) — 5,205 views | 🌷 [tree command](https://hackmd.io/@pipibear/HkC745FSzx) — 2026-07-31<br>🌷 [qutebrowser](https://hackmd.io/@pipibear/HJgOIP67-l) — 2026-07-29<br>🌷 [tmux](https://hackmd.io/@pipibear/B1PX8opIWl) — 2026-07-16 |
 <!--END_SECTION:hackmd-->
 
 
