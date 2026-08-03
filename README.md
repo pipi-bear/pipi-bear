@@ -78,6 +78,28 @@ Show spotify stats
 
 
 
+<h2 align="center"> 🇭‌🇦‌🇨‌🇰‌🇲‌🇩‌ </h2>
+
+<!---
+HackMD stats, auto-updated by .github/workflows/update-hackmd.yml
+(action: https://github.com/pipi-bear/hackmd-readme-stats), do not
+edit the section between the markers by hand.
+-->
+<!--START_SECTION:hackmd-->
+**171,966** views across **130** published notes
+
+**Popular notes**
+- [ML 筆記](https://hackmd.io/@pipibear/rJpuFUMxC) — 74,171 views
+- [特徵方程式](https://hackmd.io/@pipibear/SyR4AjQKp) — 7,450 views
+- [hard link / soft (symbolic) link](https://hackmd.io/@pipibear/r12FFpPO6) — 5,168 views
+
+**Recently updated**
+- [tmux](https://hackmd.io/@pipibear/B1PX8opIWl) — 2026-07-16
+- [libheif︰在 (arch) linux 上將 heic 檔轉為 jpg / png](https://hackmd.io/@pipibear/ByNru4ZgMg) — 2026-05-25
+- [gdb](https://hackmd.io/@pipibear/ByQVDqd6bx) — 2026-05-18
+<!--END_SECTION:hackmd-->
+
+
 <h2 align="center"> 🇨‌🇴‌🇳‌🇹‌🇦‌🇨‌🇹‌ 🇲‌🇪‌ </h2>
 <div align="center">
   <img src="assets/contact_pic.jpg" 
