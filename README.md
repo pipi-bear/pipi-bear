@@ -164,7 +164,7 @@ for configuration, set .github/workflows/waka-readme.yml
 Generate waka stats
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-417%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-420%20hrs%206%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -191,20 +191,20 @@ Sunday                   22 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      6 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   40.07 % 
-Markdown                 2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-Python                   2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-TeX                      2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-YAML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+C++                      7 hrs 12 mins       █████████████░░░░░░░░░░░░   53.10 % 
+Markdown                 1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+TeX                      1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+Python                   1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Other                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 
 🐱‍💻 Projects: 
-leetcode                 6 hrs 33 mins       ███████████░░░░░░░░░░░░░░   42.16 % 
-hackmd-readme-stats      2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-mlir-sparseMatrixKernels 2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-thesis                   1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-pipi-bear                1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+leetcode                 7 hrs 31 mins       ██████████████░░░░░░░░░░░   55.49 % 
+hackmd-readme-stats      2 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+thesis                   1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+mlir-sparseMatrixKernels 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+userscripts              28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 ```
 
 
- Last Updated on 04/08/2026 02:03:00 UTC
+ Last Updated on 05/08/2026 02:02:06 UTC
 <!--END_SECTION:waka-->
