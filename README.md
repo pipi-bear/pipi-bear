@@ -164,7 +164,7 @@ for configuration, set .github/workflows/waka-readme.yml
 Generate waka stats
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-422%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-423%20hrs%2024%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -191,20 +191,20 @@ Sunday                   22 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      3 hrs 32 mins       ███████████░░░░░░░░░░░░░░   42.94 % 
-Python                   2 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
-TeX                      1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Markdown                 51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+Python                   2 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   31.92 % 
+C++                      1 hr 48 mins        ███████░░░░░░░░░░░░░░░░░░   27.86 % 
+TeX                      1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Markdown                 51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 
 🐱‍💻 Projects: 
-leetcode                 3 hrs 31 mins       ███████████░░░░░░░░░░░░░░   42.74 % 
-hackmd-readme-stats      2 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   26.71 % 
-thesis                   1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-mlir-sparseMatrixKernels 53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-pipi-bear                10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+hackmd-readme-stats      2 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   33.94 % 
+leetcode                 1 hr 47 mins        ███████░░░░░░░░░░░░░░░░░░   27.61 % 
+thesis                   1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+mlir-sparseMatrixKernels 53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+pipi-bear                10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 ```
 
 
- Last Updated on 09/08/2026 01:17:27 UTC
+ Last Updated on 10/08/2026 01:19:27 UTC
 <!--END_SECTION:waka-->
