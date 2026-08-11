@@ -191,20 +191,20 @@ Sunday                   22 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   31.92 % 
-C++                      1 hr 48 mins        ███████░░░░░░░░░░░░░░░░░░   27.86 % 
-TeX                      1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Markdown                 51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+C++                      1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+Python                   1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+Assembly                 1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Markdown                 57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+TeX                      47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
 
 🐱‍💻 Projects: 
-hackmd-readme-stats      2 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   33.94 % 
-leetcode                 1 hr 47 mins        ███████░░░░░░░░░░░░░░░░░░   27.61 % 
-thesis                   1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-mlir-sparseMatrixKernels 53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-pipi-bear                10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+mlir-sparseMatrixKernels 3 hrs 33 mins       ████████████░░░░░░░░░░░░░   48.15 % 
+leetcode                 1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
+thesis                   57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+hackmd-readme-stats      55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+pipi-bear                10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 ```
 
 
- Last Updated on 10/08/2026 01:19:27 UTC
+ Last Updated on 11/08/2026 01:17:24 UTC
 <!--END_SECTION:waka-->
