@@ -164,7 +164,7 @@ for configuration, set .github/workflows/waka-readme.yml
 Generate waka stats
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-427%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-428%20hrs%2021%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -191,20 +191,20 @@ Sunday                   22 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-Markdown                 1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
-Assembly                 1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-TeX                      53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-MLIR                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Markdown                 1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
+Python                   1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+Assembly                 1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+TeX                      53 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+MLIR                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
 
 🐱‍💻 Projects: 
-mlir-sparseMatrixKernels 4 hrs 44 mins       ████████████████░░░░░░░░░   64.07 % 
-thesis                   1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-hackmd-readme-stats      55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-leetcode                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-pipi-bear                10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+mlir-sparseMatrixKernels 4 hrs 45 mins       ███████████████████░░░░░░   75.98 % 
+thesis                   1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+C++                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+leetcode                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+dotfiles                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 
- Last Updated on 13/08/2026 01:27:24 UTC
+ Last Updated on 14/08/2026 01:26:56 UTC
 <!--END_SECTION:waka-->
