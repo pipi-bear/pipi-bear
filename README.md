@@ -164,7 +164,7 @@ for configuration, set .github/workflows/waka-readme.yml
 Generate waka stats
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-428%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-428%20hrs%2059%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -191,20 +191,20 @@ Sunday                   22 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-Python                   1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Assembly                 1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-TeX                      53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Other                    52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Other                    1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
+Markdown                 1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+Python                   55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Assembly                 54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+TeX                      50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
 
 🐱‍💻 Projects: 
-mlir-sparseMatrixKernels 4 hrs 45 mins       █████████████████░░░░░░░░   67.22 % 
-thesis                   1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-C++                      54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Unknown Project          13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-leetcode                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+mlir-sparseMatrixKernels 4 hrs 14 mins       ███████████████░░░░░░░░░░   59.58 % 
+thesis                   1 hr                ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+C++                      54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+hackerrank               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+Unknown Project          13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 ```
 
 
- Last Updated on 15/08/2026 00:57:03 UTC
+ Last Updated on 16/08/2026 01:00:23 UTC
 <!--END_SECTION:waka-->
