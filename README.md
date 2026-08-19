@@ -164,7 +164,7 @@ for configuration, set .github/workflows/waka-readme.yml
 Generate waka stats
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-431%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-435%20hrs%2046%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -191,20 +191,20 @@ Sunday                   25 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    7 hrs 22 mins       ████████████░░░░░░░░░░░░░   46.06 % 
-C++                      3 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
-Markdown                 2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-TeX                      1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Python                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+Other                    9 hrs 2 mins        ████████████░░░░░░░░░░░░░   47.32 % 
+C++                      4 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
+Markdown                 2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+TeX                      1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 
 🐱‍💻 Projects: 
-hackerrank               8 hrs 41 mins       ██████████████░░░░░░░░░░░   54.22 % 
-mlir-sparseMatrixKernels 3 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-thesis                   2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-C++                      1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Unknown Project          32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+hackerrank               9 hrs 57 mins       █████████████░░░░░░░░░░░░   52.07 % 
+mlir-sparseMatrixKernels 3 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+thesis                   2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+C++                      1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+hackerrank (brave)       59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 ```
 
 
- Last Updated on 18/08/2026 00:56:21 UTC
+ Last Updated on 19/08/2026 00:57:13 UTC
 <!--END_SECTION:waka-->
