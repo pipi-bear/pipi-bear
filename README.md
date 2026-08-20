@@ -86,11 +86,11 @@ HackMD stats, auto-updated by .github/workflows/update-hackmd.yml
 edit the section between the markers by hand.
 -->
 <!--START_SECTION:hackmd-->
-────୨ৎ──── **176,469** views across **134** published notes ────୨ৎ────
+────୨ৎ──── **176,725** views across **135** published notes ────୨ৎ────
 
 |˚.🎀༘⋆ Popular notes .𖥔 ݁ ˖ | ✚ Recently updated ♬⋆.˚ |
 | --- | --- |
-| 🍀୭ [ML 筆記](https://hackmd.io/@pipibear/rJpuFUMxC) — 74,634 views<br>🍀୭ [特徵方程式](https://hackmd.io/@pipibear/SyR4AjQKp) — 7,545 views<br>🍀୭ [hard link / soft (symbolic) link](https://hackmd.io/@pipibear/r12FFpPO6) — 5,277 views | 🌷 [VSCode 技巧](https://hackmd.io/@pipibear/BJb6JTY7A) — 2026-08-18<br>🌷 [gdb (The GNU Debugger)](https://hackmd.io/@pipibear/ByQVDqd6bx) — 2026-08-16<br>🌷 [const (C++)](https://hackmd.io/@pipibear/Bkw4YenUMg) — 2026-08-14 |
+| 🍀୭ [ML 筆記](https://hackmd.io/@pipibear/rJpuFUMxC) — 74,652 views<br>🍀୭ [特徵方程式](https://hackmd.io/@pipibear/SyR4AjQKp) — 7,548 views<br>🍀୭ [hard link / soft (symbolic) link](https://hackmd.io/@pipibear/r12FFpPO6) — 5,285 views | 🌷 [Quick Phrase](https://hackmd.io/@pipibear/rkMj1u-Pfl) — 2026-08-18<br>🌷 [VSCode 技巧](https://hackmd.io/@pipibear/BJb6JTY7A) — 2026-08-18<br>🌷 [gdb (The GNU Debugger)](https://hackmd.io/@pipibear/ByQVDqd6bx) — 2026-08-16 |
 <!--END_SECTION:hackmd-->
 
 
