@@ -164,7 +164,7 @@ for configuration, set .github/workflows/waka-readme.yml
 Generate waka stats
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-437%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-442%20hrs%2059%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -191,20 +191,20 @@ Sunday                   25 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    10 hrs 9 mins       ██████████░░░░░░░░░░░░░░░   40.98 % 
-C++                      8 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   35.33 % 
-TeX                      1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-Markdown                 1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-MLIR                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Other                    10 hrs 18 mins      █████████░░░░░░░░░░░░░░░░   37.70 % 
+C++                      8 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   30.58 % 
+TeX                      3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Markdown                 2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+MLIR                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 
 🐱‍💻 Projects: 
-hackerrank               12 hrs 56 mins      █████████████░░░░░░░░░░░░   52.16 % 
-mlir-sparseMatrixKernels 2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-thesis                   2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-hackerrank (brave)       1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-leetcode                 1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+hackerrank               12 hrs 56 mins      ████████████░░░░░░░░░░░░░   47.31 % 
+mlir-sparseMatrixKernels 4 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+thesis                   2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+hackerrank (brave)       1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+leetcode                 1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
 ```
 
 
- Last Updated on 20/08/2026 00:56:53 UTC
+ Last Updated on 21/08/2026 01:00:32 UTC
 <!--END_SECTION:waka-->
