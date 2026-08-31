@@ -191,20 +191,20 @@ Sunday                   27 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TeX                      6 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   30.63 % 
-Markdown                 6 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   29.06 % 
-Other                    4 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-Python                   2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-C                        41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+TeX                      8 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   39.05 % 
+Markdown                 5 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   26.18 % 
+Other                    4 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+Python                   1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+C                        41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 
 🐱‍💻 Projects: 
-Presentation             5 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
-mlir-sparseMatrixKernels 4 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
-claude                   3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-thesis                   2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-dotfiles                 1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Presentation             6 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   31.98 % 
+mlir-sparseMatrixKernels 3 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+claude                   3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+thesis                   2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+dotfiles                 1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 ```
 
 
- Last Updated on 30/08/2026 03:14:21 UTC
+ Last Updated on 31/08/2026 03:08:48 UTC
 <!--END_SECTION:waka-->
