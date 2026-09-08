@@ -164,7 +164,7 @@ for configuration, set .github/workflows/waka-readme.yml
 Generate waka stats
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-489%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-492%20hrs%2033%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -191,20 +191,20 @@ Sunday                   39 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TeX                      8 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   33.21 % 
-Markdown                 6 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   26.25 % 
-Other                    4 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-Python                   2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-Bash                     1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Markdown                 6 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   33.47 % 
+TeX                      4 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+Other                    3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Python                   2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Bash                     1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
 
 🐱‍💻 Projects: 
-Presentation             8 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   32.22 % 
-mlir-sparseMatrixKernels 8 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   30.53 % 
-thesis                   1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-hackerrank               1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-ACD_TA                   1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+mlir-sparseMatrixKernels 6 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   35.73 % 
+Presentation             3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+hackerrank               1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+ACD_TA                   1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+thesis                   1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
 ```
 
 
- Last Updated on 07/09/2026 02:31:49 UTC
+ Last Updated on 08/09/2026 02:44:51 UTC
 <!--END_SECTION:waka-->
