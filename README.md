@@ -191,20 +191,20 @@ Sunday                   39 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   29.21 % 
-TeX                      4 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
-Other                    2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
-Python                   2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-C++                      1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Markdown                 3 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   28.21 % 
+TeX                      3 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+Python                   1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Other                    1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+C++                      1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
 
 🐱‍💻 Projects: 
-mlir-sparseMatrixKernels 5 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   37.00 % 
-Presentation             4 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   26.15 % 
-thesis                   1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-claude                   1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-leetcode                 1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+mlir-sparseMatrixKernels 5 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   41.38 % 
+Presentation             3 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   26.16 % 
+claude                   1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+thesis                   1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+leetcode                 1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
 ```
 
 
- Last Updated on 10/09/2026 02:46:40 UTC
+ Last Updated on 11/09/2026 02:39:50 UTC
 <!--END_SECTION:waka-->
