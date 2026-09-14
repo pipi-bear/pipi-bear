@@ -169,21 +169,21 @@ Generate waka stats
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                138 commits         █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
-🌆 Daytime                303 commits         ████████████░░░░░░░░░░░░░   46.76 % 
-🌃 Evening                174 commits         ███████░░░░░░░░░░░░░░░░░░   26.85 % 
-🌙 Night                  33 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+🌞 Morning                139 commits         █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
+🌆 Daytime                305 commits         ████████████░░░░░░░░░░░░░   46.85 % 
+🌃 Evening                174 commits         ███████░░░░░░░░░░░░░░░░░░   26.73 % 
+🌙 Night                  33 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Tuesday                  129 commits         █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
-Wednesday                86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Thursday                 186 commits         ███████░░░░░░░░░░░░░░░░░░   28.70 % 
-Friday                   93 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Saturday                 27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Sunday                   39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Monday                   89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Tuesday                  129 commits         █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+Wednesday                86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Thursday                 186 commits         ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Friday                   93 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Saturday                 27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Sunday                   41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
 ```
 
 
@@ -191,20 +191,20 @@ Sunday                   39 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   28.87 % 
-TeX                      3 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
-Python                   1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Other                    1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Assembly                 1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+TeX                      2 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
+Markdown                 2 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+Python                   1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+Other                    1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Assembly                 1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
 
 🐱‍💻 Projects: 
-mlir-sparseMatrixKernels 5 hrs 47 mins       ███████████░░░░░░░░░░░░░░   44.49 % 
-Presentation             3 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
-claude                   1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-thesis                   1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-leetcode                 1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+mlir-sparseMatrixKernels 5 hrs 46 mins       █████████████░░░░░░░░░░░░   52.33 % 
+Presentation             3 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   28.30 % 
+leetcode                 1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+leetcode (brave)         22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+claude                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 ```
 
 
- Last Updated on 13/09/2026 02:47:32 UTC
+ Last Updated on 14/09/2026 03:02:06 UTC
 <!--END_SECTION:waka-->
