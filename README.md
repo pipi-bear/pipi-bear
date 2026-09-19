@@ -164,26 +164,26 @@ for configuration, set .github/workflows/waka-readme.yml
 Generate waka stats
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-507%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-511%20hrs%2049%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                143 commits         █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
-🌆 Daytime                331 commits         ████████████░░░░░░░░░░░░░   47.29 % 
-🌃 Evening                193 commits         ███████░░░░░░░░░░░░░░░░░░   27.57 % 
-🌙 Night                  33 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+🌞 Morning                143 commits         █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+🌆 Daytime                336 commits         ████████████░░░░░░░░░░░░░   47.66 % 
+🌃 Evening                193 commits         ███████░░░░░░░░░░░░░░░░░░   27.38 % 
+🌙 Night                  33 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Tuesday                  136 commits         █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-Wednesday                108 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Thursday                 205 commits         ███████░░░░░░░░░░░░░░░░░░   29.29 % 
-Friday                   93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Saturday                 27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-Sunday                   41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Monday                   90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Tuesday                  136 commits         █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+Wednesday                108 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Thursday                 205 commits         ███████░░░░░░░░░░░░░░░░░░   29.08 % 
+Friday                   98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Saturday                 27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Sunday                   41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 ```
 
 
@@ -191,20 +191,20 @@ Sunday                   41 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TeX                      5 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   31.75 % 
-Other                    4 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
-Markdown                 3 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-Python                   1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-Makefile                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+TeX                      7 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   36.61 % 
+Other                    5 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   26.14 % 
+Markdown                 5 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
+Python                   1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 🐱‍💻 Projects: 
-Presentation             6 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   37.58 % 
-mlir-sparseMatrixKernels 4 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
-thesis                   2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-tmux                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-ACD_TA                   1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Presentation             10 hrs 24 mins      ████████████░░░░░░░░░░░░░   48.04 % 
+mlir-sparseMatrixKernels 5 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
+tmux                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+thesis                   1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+ACD_TA                   1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
 ```
 
 
- Last Updated on 18/09/2026 02:52:07 UTC
+ Last Updated on 19/09/2026 02:50:15 UTC
 <!--END_SECTION:waka-->
