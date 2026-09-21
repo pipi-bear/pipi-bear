@@ -164,7 +164,7 @@ for configuration, set .github/workflows/waka-readme.yml
 Generate waka stats
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-516%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-519%20hrs%2016%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -191,20 +191,20 @@ Sunday                   41 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TeX                      9 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   40.16 % 
-Other                    6 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Markdown                 5 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
-Python                   1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+TeX                      8 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   36.01 % 
+Other                    7 hrs               ███████░░░░░░░░░░░░░░░░░░   28.10 % 
+Markdown                 5 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+Python                   1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 
 🐱‍💻 Projects: 
-Presentation             10 hrs 25 mins      ███████████░░░░░░░░░░░░░░   42.09 % 
-mlir-sparseMatrixKernels 6 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
-ACD_TA                   3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-thesis                   1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-tmux                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+Presentation             8 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   35.97 % 
+mlir-sparseMatrixKernels 6 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   26.60 % 
+ACD_TA                   3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+thesis                   2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+tmux                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
 ```
 
 
- Last Updated on 20/09/2026 03:02:28 UTC
+ Last Updated on 21/09/2026 02:59:38 UTC
 <!--END_SECTION:waka-->
