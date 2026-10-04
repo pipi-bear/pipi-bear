@@ -164,7 +164,7 @@ for configuration, set .github/workflows/waka-readme.yml
 Generate waka stats
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-566%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-569%20hrs%2049%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -191,20 +191,20 @@ Sunday                   88 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 16 hrs 37 mins      ████████████░░░░░░░░░░░░░   49.48 % 
-TeX                      6 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
-Python                   3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-Other                    2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-Text                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Markdown                 16 hrs 47 mins      █████████████░░░░░░░░░░░░   51.78 % 
+TeX                      7 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
+Python                   2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+Other                    2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+C                        1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 
 🐱‍💻 Projects: 
-mlir-sparseMatrixKernels 26 hrs 44 mins      ████████████████████░░░░░   79.57 % 
-Presentation             3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-thesis                   1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-ACD_TA                   1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-g-p-69c0d7be88ac81918717220 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+mlir-sparseMatrixKernels 26 hrs 6 mins       ████████████████████░░░░░   80.49 % 
+Presentation             3 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+thesis                   1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+g-p-69c0d7be88ac81918717219 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+memory                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 ```
 
 
- Last Updated on 03/10/2026 03:30:24 UTC
+ Last Updated on 04/10/2026 03:58:13 UTC
 <!--END_SECTION:waka-->
