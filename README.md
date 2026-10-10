@@ -164,7 +164,7 @@ for configuration, set .github/workflows/waka-readme.yml
 Generate waka stats
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-590%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-599%20hrs%2010%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -191,20 +191,20 @@ Sunday                   94 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 16 hrs 33 mins      ████████████░░░░░░░░░░░░░   47.22 % 
-TeX                      9 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
-Python                   2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-Other                    2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-C++                      1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Markdown                 14 hrs 19 mins      ███████████░░░░░░░░░░░░░░   45.56 % 
+TeX                      8 hrs               ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
+Other                    2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+Python                   1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+C++                      1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
 
 🐱‍💻 Projects: 
-mlir-sparseMatrixKernels 21 hrs 22 mins      ███████████████░░░░░░░░░░   60.95 % 
-Presentation             7 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
-thesis                   2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-llvm-project             2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-claude                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+mlir-sparseMatrixKernels 18 hrs 19 mins      ███████████████░░░░░░░░░░   58.27 % 
+Presentation             7 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
+llvm-project             2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+thesis                   2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+claude                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 ```
 
 
- Last Updated on 09/10/2026 04:15:43 UTC
+ Last Updated on 10/10/2026 04:01:03 UTC
 <!--END_SECTION:waka-->
