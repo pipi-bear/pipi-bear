@@ -164,7 +164,7 @@ for configuration, set .github/workflows/waka-readme.yml
 Generate waka stats
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-603%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-603%20hrs%2051%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -191,20 +191,20 @@ Sunday                   94 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 13 hrs 56 mins      ███████████░░░░░░░░░░░░░░   45.82 % 
-TeX                      5 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
-Python                   2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Other                    2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-C++                      1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+Markdown                 12 hrs 46 mins      ████████████░░░░░░░░░░░░░   48.83 % 
+TeX                      3 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Python                   2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Other                    2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+C++                      1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
 
 🐱‍💻 Projects: 
-mlir-sparseMatrixKernels 17 hrs 32 mins      ██████████████░░░░░░░░░░░   57.67 % 
-Presentation             7 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
-llvm-project             2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-thesis                   1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-research_code_testing    23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+mlir-sparseMatrixKernels 14 hrs 9 mins       ██████████████░░░░░░░░░░░   54.13 % 
+Presentation             6 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
+llvm-project             2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+thesis                   2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+research_code_testing    23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 ```
 
 
- Last Updated on 12/10/2026 03:59:40 UTC
+ Last Updated on 13/10/2026 05:09:10 UTC
 <!--END_SECTION:waka-->
