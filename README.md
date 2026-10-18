@@ -191,20 +191,20 @@ Sunday                   94 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 8 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   34.92 % 
-Python                   6 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
-TeX                      3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-Other                    2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-MLIR                     2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Markdown                 5 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   34.75 % 
+Python                   3 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+TeX                      2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+MLIR                     2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Other                    1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
 
 🐱‍💻 Projects: 
-mlir-sparseMatrixKernels 16 hrs 7 mins       ████████████████░░░░░░░░░   65.30 % 
-Presentation             5 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
-thesis                   2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-research_code_testing    23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-memory                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+mlir-sparseMatrixKernels 11 hrs 56 mins      ██████████████████░░░░░░░   70.51 % 
+Presentation             2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+thesis                   1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+g-p-69d764188e0c8191be1d95 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+dotfiles                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 
 
- Last Updated on 17/10/2026 02:43:20 UTC
+ Last Updated on 18/10/2026 02:44:30 UTC
 <!--END_SECTION:waka-->
