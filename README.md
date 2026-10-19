@@ -86,11 +86,11 @@ HackMD stats, auto-updated by .github/workflows/update-hackmd.yml
 edit the section between the markers by hand.
 -->
 <!--START_SECTION:hackmd-->
-────୨ৎ──── **189,645** views across **136** published notes ────୨ৎ────
+────୨ৎ──── **189,893** views across **138** published notes ────୨ৎ────
 
 |˚.🎀༘⋆ Popular notes .𖥔 ݁ ˖ | ✚ Recently updated ♬⋆.˚ |
 | --- | --- |
-| 🍀୭ [ML 筆記](https://hackmd.io/@pipibear/rJpuFUMxC) — 77,327 views<br>🍀୭ [特徵方程式](https://hackmd.io/@pipibear/SyR4AjQKp) — 7,774 views<br>🍀୭ [DMA ](https://hackmd.io/@pipibear/HyRI8kdPp) — 5,670 views | 🌷 [VSCode 技巧](https://hackmd.io/@pipibear/BJb6JTY7A) — 2026-10-07<br>🌷 [ImageMagick](https://hackmd.io/@pipibear/B1Z-IfQT-l) — 2026-10-06<br>🌷 [Quick Phrase](https://hackmd.io/@pipibear/rkMj1u-Pfl) — 2026-10-01 |
+| 🍀୭ [ML 筆記](https://hackmd.io/@pipibear/rJpuFUMxC) — 77,364 views<br>🍀୭ [特徵方程式](https://hackmd.io/@pipibear/SyR4AjQKp) — 7,777 views<br>🍀୭ [DMA ](https://hackmd.io/@pipibear/HyRI8kdPp) — 5,676 views | 🌷 [Advanced Compiler Design (ACD) 筆記](https://hackmd.io/@pipibear/rJhLyhimWg) — 2026-10-18<br>🌷 [SSA form (Single static assignment form)](https://hackmd.io/@pipibear/Bk2r1R-nGg) — 2026-10-18<br>🌷 [Sparse Simple Constant Propagation (SSCP)](https://hackmd.io/@pipibear/Bkpck6Whfe) — 2026-10-18 |
 <!--END_SECTION:hackmd-->
 
 
