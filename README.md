@@ -164,7 +164,7 @@ for configuration, set .github/workflows/waka-readme.yml
 Generate waka stats
 -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-668%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-672%20hrs%2041%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -191,20 +191,20 @@ Sunday                   108 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TeX                      8 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   40.25 % 
-Markdown                 5 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   26.27 % 
-Other                    2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Python                   1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-Text                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+TeX                      8 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   41.92 % 
+Markdown                 6 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   32.55 % 
+Other                    1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+Python                   1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Text                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 
 🐱‍💻 Projects: 
-Presentation             9 hrs 49 mins       ████████████░░░░░░░░░░░░░   46.85 % 
-mlir-sparseMatrixKernels 7 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   36.18 % 
-thesis                   3 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+Presentation             9 hrs 7 mins        ███████████░░░░░░░░░░░░░░   43.24 % 
+mlir-sparseMatrixKernels 7 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   37.16 % 
+thesis                   3 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+ACD_TA                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 Compiler_documents       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-dotfiles                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 
 
- Last Updated on 30/10/2026 04:04:19 UTC
+ Last Updated on 31/10/2026 03:48:39 UTC
 <!--END_SECTION:waka-->
