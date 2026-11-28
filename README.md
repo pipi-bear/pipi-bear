@@ -86,11 +86,11 @@ HackMD stats, auto-updated by .github/workflows/update-hackmd.yml
 edit the section between the markers by hand.
 -->
 <!--START_SECTION:hackmd-->
-────୨ৎ──── **197,826** views across **138** published notes ────୨ৎ────
+────୨ৎ──── **198,003** views across **139** published notes ────୨ৎ────
 
 |˚.🎀༘⋆ Popular notes .𖥔 ݁ ˖ | ✚ Recently updated ♬⋆.˚ |
 | --- | --- |
-| 🍀୭ [ML 筆記](https://hackmd.io/@pipibear/rJpuFUMxC) — 78,076 views<br>🍀୭ [特徵方程式](https://hackmd.io/@pipibear/SyR4AjQKp) — 8,010 views<br>🍀୭ [DMA ](https://hackmd.io/@pipibear/HyRI8kdPp) — 5,957 views | 🌷 [Advanced Compiler Design (ACD) 筆記](https://hackmd.io/@pipibear/rJhLyhimWg) — 2026-10-18<br>🌷 [SSA form (Single static assignment form)](https://hackmd.io/@pipibear/Bk2r1R-nGg) — 2026-10-18<br>🌷 [Sparse Simple Constant Propagation (SSCP)](https://hackmd.io/@pipibear/Bkpck6Whfe) — 2026-10-18 |
+| 🍀୭ [ML 筆記](https://hackmd.io/@pipibear/rJpuFUMxC) — 78,085 views<br>🍀୭ [特徵方程式](https://hackmd.io/@pipibear/SyR4AjQKp) — 8,013 views<br>🍀୭ [DMA ](https://hackmd.io/@pipibear/HyRI8kdPp) — 5,963 views | 🌷 [2026 AC Midterm solution explanation (partial)](https://hackmd.io/@pipibear/r1bWiA0azx) — 2026-11-09<br>🌷 [Advanced Compiler Design (ACD) 筆記](https://hackmd.io/@pipibear/rJhLyhimWg) — 2026-10-18<br>🌷 [SSA form (Single static assignment form)](https://hackmd.io/@pipibear/Bk2r1R-nGg) — 2026-10-18 |
 <!--END_SECTION:hackmd-->
 
 
